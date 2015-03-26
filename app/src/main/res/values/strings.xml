@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Test</string>
 
+<<<<<<< .merge_file_a06220
     <string name="hello_world">Hello world!B1 test</string>
+=======
+    <string name="hello_world">Hello world! b2 here!!</string>
+>>>>>>> .merge_file_a06516
     <string name="action_settings">Settings</string>
 </resources>
